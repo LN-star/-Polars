@@ -8,7 +8,7 @@
 - эвристическую детекцию подозрительных событий.
 
 ## Данные:
-Файл: NF-CSE-CIC-IDS2018-V2.parquet.
+Файл: [NF-CSE-CIC-IDS2018-V2.parquet.](https://cloud.mail.ru/public/Wa1h/BfjQufpBM)
 
 Описание: датасет сетевого трафика с метками Label (бинарная метка: 0 = "Benign", 1 = "Attack") и Attack (строковая метка типа атаки, например: "SSH-Bruteforce", "DDoS").
 

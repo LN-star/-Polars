@@ -21,7 +21,7 @@ PROTOCOL: тип протокола (TCP = 6, UDP = 17 и т. д.).
 IN_BYTES, OUT_BYTES, FLOW_DURATION_MILLISECONDS и др.
 
 
-!Задания (пошагово)
+Задания (пошагово)
 1. Загрузка и первичный анализ:
 Загрузите файл NF-CSE-CIC-IDS2018-V2.parquet в Polars DataFrame.
 Выведите:
